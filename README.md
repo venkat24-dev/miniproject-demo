@@ -1,3 +1,3 @@
 # miniproject-demo
 this is my first repository
-author venkat
+author venkat.
